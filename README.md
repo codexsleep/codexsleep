@@ -3,7 +3,8 @@
 ## Hi there 👋 I'm Firman
 <p>I'm a software engineer at BN TECH 👨‍💻</p>
 
-![status](https://img.shields.io/badge/status-active-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-white) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/codexsleep) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/firmanraiwan)
+![status](https://img.shields.io/badge/status-active-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-white) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/codexsleep) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/firmanraiwan) ![Gmail Badge](https://img.shields.io/badge/-firmanraiwan@gmail.com-D14836?style=flat-square&labelColor=white&logo=gmail&logoColor=D14836)
+
   
  </div>
 
@@ -48,6 +49,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011?style=flat-square&logo=github&logoColor=white)
  
+## Servers and Databases
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
 ## Follow Me
  [![Facebook Badge](https://img.shields.io/badge/-@cdnown-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://facebook.com/cdnown)](https://twitter.com/cdnown)
  [![Twitter Badge](https://img.shields.io/badge/-@firman_riawan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firman_raiwan)](https://twitter.com/firman_raiwan)
