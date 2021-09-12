@@ -9,7 +9,7 @@
 
 ## About Me
 <li> My name is M Firman Raiwan </li>
-<li> Now I live in Pekanbaru, Riau 🇮🇩 </li>
+<li> Now I live in Pekanbaru City, Riau  🇮🇩 </li>
 
 ## Follow Me
  [![Facebook Badge](https://img.shields.io/badge/-@cdnown-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://facebook.com/cdnown)](https://twitter.com/cdnown)
