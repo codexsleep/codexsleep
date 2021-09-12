@@ -9,9 +9,11 @@
  </div>
 
 ## 🧐 About Me
+<ul>
 <li> My name is M Firman Raiwan </li>
 <li> Now I live in Pekanbaru City, Riau  🇮🇩 </li>
-
+</ul>
+  
 ## Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6?style=flat-square&logo=css&logoColor=white)
