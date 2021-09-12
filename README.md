@@ -12,6 +12,7 @@
 <ul>
 <li> My name is M Firman Raiwan </li>
 <li> Now I live in Pekanbaru City, Riau  🇮🇩 </li>
+<li> Informatics Engineering Student at Polytechnic Caltex Riau </li>
 </ul>
   
 ## Programming Languages
