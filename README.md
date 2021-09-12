@@ -8,7 +8,8 @@
  </div>
 
 ## About Me
-<li> I'm currently a back end developer at BN TECH </li>
+<li> My name is M Firman Raiwan </li>
+<li> Now I live in Pekanbaru, Riau 🇮🇩 </li>
 
 ## Follow Me
  [![Facebook Badge](https://img.shields.io/badge/-@cdnown-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://facebook.com/cdnown)](https://twitter.com/cdnown)
