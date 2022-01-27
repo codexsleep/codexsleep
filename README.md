@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/codexsleep/codexsleep/main/images/snow-cat.gif">
 <div align='center'>
   
 ## Hi there 👋 I'm Firman
