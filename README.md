@@ -17,8 +17,8 @@
 </ul>
 
 ## Follow Me
- [![Facebook Badge](https://img.shields.io/badge/-@cdnown-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://facebook.com/cdnown)](https://twitter.com/cdnown)
- [![Twitter Badge](https://img.shields.io/badge/-@firman_riawan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firman_raiwan)](https://twitter.com/firman_raiwan)
+ [![Facebook Badge](https://img.shields.io/badge/-@cdnown-4267B2?style=flat-square&labelColor=4267B2&logo=facebook&logoColor=white&link=https://facebook.com/cdnown)](https://facebook.com/cdnown)
+ [![Twitter Badge](https://img.shields.io/badge/-@firman_riawan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firmanriawan)](https://twitter.com/firmanriawan)
  [![Instagram Badge](https://img.shields.io/badge/-@firmanriawan21-%23E4405F?style=flat-square&labelColor=%23E4405F&logo=instagram&logoColor=white&link=https://instagram.com/firmanriawan21)](https://instagram.com/firmanriawan21)
  
 ## My ability
