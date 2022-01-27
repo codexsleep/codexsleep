@@ -21,7 +21,7 @@
  [![Twitter Badge](https://img.shields.io/badge/-@firman_riawan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firman_raiwan)](https://twitter.com/firman_raiwan)
  [![Instagram Badge](https://img.shields.io/badge/-@firmanriawan21-%23E4405F?style=flat-square&labelColor=%23E4405F&logo=instagram&logoColor=white&link=https://instagram.com/firmanriawan21)](https://instagram.com/firmanriawan21)
  
-## Programming Languages
+## My ability
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
