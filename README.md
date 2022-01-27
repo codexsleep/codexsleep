@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/codexsleep/codexsleep/main/images/snow-cat.gif">
 <div align='center'>
-  
+<img src="https://raw.githubusercontent.com/codexsleep/codexsleep/main/images/snow-cat.gif">
+
 ## Hi there 👋 I'm Firman
 <p>I'm a software engineer at BN TECH 👨‍💻</p>
 
